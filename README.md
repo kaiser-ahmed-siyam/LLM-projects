@@ -2,9 +2,9 @@
 
 # 1. Create environment 
 
-# conda create -n llmproj python=3.10 -y
+# python=3.10 -m venv venv
 
-# conda activate llmproj
+# vene/Scripts/activate
 
 # install requirements
 # pip install -r requirements.txt
