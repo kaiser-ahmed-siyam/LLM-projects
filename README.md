@@ -4,7 +4,7 @@
 
 # python=3.10 -m venv venv
 
-# vene/Scripts/activate
+# venv/Scripts/activate
 
 # install requirements
 # pip install -r requirements.txt
